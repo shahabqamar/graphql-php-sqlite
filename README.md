@@ -4,7 +4,7 @@ A basic graphql server using the graphql-php package that works with a sqlite da
 ## Setup (if you have MAMP or alike)
 1. Clone the repo in htdocs
 2. Make sure you have composer installed. Navigate to the project folder and run ```composer install```
-3. Fireup MAMP (or your favourite PHP environment) and open API url in the browser. It should look something like: 
+3. Fire up MAMP (or your favourite PHP environment) and open API url in the browser. It should look something like: 
 ```http://localhost:<port>/graphql-php-sqlite/server/api.php``` and throw an JSON error message: 
 ```
 {
