@@ -84,3 +84,4 @@ You should get something like:
 * http://graphql.org/learn/
 * https://www.howtographql.com/
 * https://www.sqlite.org/
+* http://sqlitebrowser.org/ (handy GUI tool to browse and edit sqlite DB)
