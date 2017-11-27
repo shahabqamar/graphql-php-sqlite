@@ -80,6 +80,6 @@ You should get something like:
 ```
 
 ## Learn more
-http://webonyx.github.io/graphql-php/
-http://graphql.org/learn/
-https://www.howtographql.com/
+* http://webonyx.github.io/graphql-php/
+* http://graphql.org/learn/
+* https://www.howtographql.com/
