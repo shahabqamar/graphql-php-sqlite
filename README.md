@@ -5,7 +5,7 @@ A basic graphql server using the graphql-php package that works with a sqlite da
 1. Clone the repo in htdocs
 2. Make sure you have composer installed. Navigate to the project folder and run ```composer install```
 3. Fire up MAMP (or your favourite PHP environment) and open API url in the browser. It should look something like: 
-```http://localhost:<port>/graphql-php-sqlite/server/api.php``` and throw an JSON error message: 
+```http://localhost:<port>/graphql-php-sqlite/server/api.php``` and throw a JSON error message: 
 ```
 {
   errors: [
@@ -16,9 +16,9 @@ A basic graphql server using the graphql-php package that works with a sqlite da
   ]
 } 
 ```
-That's ok, its expected behaviour. 
+That's ok, it is expected behaviour. 
 
-4. Now test if the sqlite DB connection is working alright. Navigate to: ```http://localhost:<port>/graphql-php-sqlite/db/db-test.php```
+4. Now test if the sqlite DB connection is working. Navigate to: ```http://localhost:<port>/graphql-php-sqlite/db/db-test.php```
 If you see a response like the following:
 ```
 Array
@@ -50,7 +50,9 @@ Array
 )
 ```
 congratulations, you are all set. If you are getting a 500 internal server error, check if your PHP installation has sqlite enabled.
+
 5. Install and launch the ChromeiQL extension for Chrome `https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij` which is an implementation of GraphiQL client. 
+
 6. In the ChromeiQL UI, set `http://localhost:<port>/graphql-php-sqlite/server/api.php` as your endpoint. At the top right, click to expand the Docs section. You should see the following root types: 
 ```
 query: Query
