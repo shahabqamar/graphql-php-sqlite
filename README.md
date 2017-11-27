@@ -83,3 +83,4 @@ You should get something like:
 * http://webonyx.github.io/graphql-php/
 * http://graphql.org/learn/
 * https://www.howtographql.com/
+* https://www.sqlite.org/
