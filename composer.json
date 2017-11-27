@@ -1,0 +1,13 @@
+{
+    "name": "sqamar/gql-php",
+    "authors": [
+        {
+            "name": "Shahab Qamar",
+            "email": "sqamar@squiz.net"
+        }
+    ],
+    "require": {
+        "webonyx/graphql-php": "^0.11.2",
+        "php": ">=5.3.3"
+    }
+}
