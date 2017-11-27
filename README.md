@@ -79,7 +79,7 @@ You should get something like:
 }
 ```
 
-## Learn more
+## Useful links
 * http://webonyx.github.io/graphql-php/
 * http://graphql.org/learn/
 * https://www.howtographql.com/
