@@ -61,7 +61,7 @@ congratulations, you are all set. If you are getting a 500 internal server error
 query: Query
 mutation: mutation
 ```
-Awesome, you are now all set. Lets run an example query. Type the following query and hit play:
+Awesome! thats all to it. Lets run an example query. Type the following query and hit play:
 ```
 {
   user(id:1) {
