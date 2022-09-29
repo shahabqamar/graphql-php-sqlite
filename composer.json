@@ -6,7 +6,7 @@
         }
     ],
     "require": {
-        "webonyx/graphql-php": "^0.11.2",
-        "php": ">=5.3.3" //for heroku
+        "webonyx/graphql-php": "^14.11.8",
+        "php": ">=7.1.0"
     }
 }
